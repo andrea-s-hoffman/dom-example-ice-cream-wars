@@ -1,0 +1,22 @@
+.container {
+  border: 1px solid black;
+  height: 20px;
+  width: 200px;
+}
+
+.bar {
+  height: 100%;
+  width: 0;
+}
+
+.vanilla {
+  background-color: bisque;
+}
+
+.strawberry {
+  background-color: pink;
+}
+
+.chocolate {
+  background-color: chocolate;
+}
